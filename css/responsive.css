@@ -277,7 +277,8 @@
         display: none;
     }
     .download .titlepage h2 {
-        font-size: 35px;
+        font-size: 26px;
+        width: 274px;
     }
     .testimonial .contact {
         margin-top: 30px;
@@ -351,8 +352,8 @@
         width: 274px;
     }
     .download .titlepage h2 {
-        font-size: 21px;
-        line-height: 13px;
+        font-size: 26px;
+        width: 274px;
     }
     .read-more {
         margin-top: 30px;
