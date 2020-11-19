@@ -150,7 +150,7 @@
     .relative {
         position: absolute;
         top: 44%;
-        transform: translateY(-50%);
+        transform: translateY(-43%);
         bottom: 0;
         padding: 0;
     }
@@ -198,14 +198,14 @@
     .relative {
         position: absolute;
         top: 39%;
-        transform: translateY(-50%);
+        transform: translateY(-43%);
         padding: 0;
         border: 0 aliceblue;
         bottom: 0;
     }
     .banner-main .carousel-caption h1 {
-        color: #fff;
-        font-size: 59px;
+        color:black;
+        font-size: 47px;
         line-height: 60px;
         font-weight: bold;
     }
@@ -254,7 +254,7 @@
     .relative {
         position: absolute;
         top: 39%;
-        transform: translateY(-50%);
+        transform: translateY(-91%);
         padding: 0;
         bottom: 0;
     }
@@ -307,12 +307,12 @@
     .relative {
         position: absolute;
         top: 50%;
-        transform: translateY(-50%);
+        transform: translateY(-91%);
         padding: 0;
         bottom: 0;
     }
     .banner-main .carousel-caption h1 {
-        font-size: 26px;
+        font-size: 21px;
         line-height: 50px;
         margin-bottom: 19px;
     }

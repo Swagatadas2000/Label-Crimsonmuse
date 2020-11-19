@@ -1678,7 +1678,7 @@ input[type="radio"] .styled:checked+label::after {
 .relative {
 	position: absolute;
 	top: 50%;
-	transform: translateY(-50%);
+	transform: translateY(-60%);
 }
 
 .banner-main {
@@ -1687,7 +1687,7 @@ input[type="radio"] .styled:checked+label::after {
 
 .banner-main .carousel-caption h1 {
 	color: black;
-	font-size: 70px;
+	font-size: 50px;
 	line-height: 70px;
 	font-weight: bold;
 	border-bottom: black solid 2px;
