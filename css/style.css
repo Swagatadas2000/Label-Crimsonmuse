@@ -1972,9 +1972,11 @@ img.zoom {
 
 .download .titlepage h2 {
 	padding: 0px 0px 6px 0px;
-	font-size: 40px;
+	font-size: 40px;gi
 	font-weight: bold;
+	border-bottom: #0fc690 solid 1px;
 	color: #050303;
+	border-bottom: ;
 	line-height: 46px;
 	margin-bottom: 0px;
 	margin-bottom: 20px;
